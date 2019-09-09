@@ -42,6 +42,15 @@
             <version>3.6.1</version>
             <scope>test</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok-maven -->
+        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok-maven -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok-maven</artifactId>
+            <version>1.16.18.0</version>
+            <type>pom</type>
+        </dependency>
+
 
     </dependencies>
 </project>
